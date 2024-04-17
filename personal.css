@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 150px;
+    margin: 0 2px 0;
+    border: 5px solid rgb(199, 199, 233);
+    border-radius: 8px;
+    padding: 5px;
+     float: left;
+}
+
+span{
+    color: green;
+    font-weight: bold;
+}
+
+a{
+    text-transform: capitalize;
+    text-decoration: none;
+}
+ 
+a:hover{
+    color: black;
+}
